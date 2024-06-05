@@ -1,0 +1,39 @@
+{
+    "Durango": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 51470,
+            "percent": 0.074036,
+            "national_votes": 51417,
+            "abroad_votes": 53
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 226858,
+            "percent": 0.326319,
+            "national_votes": 226166,
+            "abroad_votes": 692
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 402186,
+            "percent": 0.578516,
+            "national_votes": 400528,
+            "abroad_votes": 1658
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 740,
+            "percent": 0.0010639999999999998,
+            "national_votes": 733,
+            "abroad_votes": 7
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 15050,
+            "percent": 0.021648,
+            "national_votes": 15039,
+            "abroad_votes": 11
+        }
+    }
+}

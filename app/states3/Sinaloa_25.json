@@ -1,0 +1,39 @@
+{
+    "Sinaloa": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 95400,
+            "percent": 0.079445,
+            "national_votes": 95345,
+            "abroad_votes": 55
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 300151,
+            "percent": 0.249955,
+            "national_votes": 299072,
+            "abroad_votes": 1079
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 777915,
+            "percent": 0.647821,
+            "national_votes": 776524,
+            "abroad_votes": 1391
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 1609,
+            "percent": 0.001339,
+            "national_votes": 1601,
+            "abroad_votes": 8
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 25741,
+            "percent": 0.021436,
+            "national_votes": 25732,
+            "abroad_votes": 9
+        }
+    }
+}

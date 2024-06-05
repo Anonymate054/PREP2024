@@ -1,0 +1,39 @@
+{
+    "Querétaro": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 109579,
+            "percent": 0.09577999999999999,
+            "national_votes": 109469,
+            "abroad_votes": 110
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 427514,
+            "percent": 0.373681,
+            "national_votes": 424487,
+            "abroad_votes": 3027
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 580295,
+            "percent": 0.507224,
+            "national_votes": 579026,
+            "abroad_votes": 1269
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 2719,
+            "percent": 0.002376,
+            "national_votes": 2708,
+            "abroad_votes": 11
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 26394,
+            "percent": 0.02307,
+            "national_votes": 26364,
+            "abroad_votes": 30
+        }
+    }
+}

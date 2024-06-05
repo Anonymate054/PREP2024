@@ -1,0 +1,39 @@
+{
+    "Ciudad De México": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 453935,
+            "percent": 0.084141,
+            "national_votes": 453008,
+            "abroad_votes": 927
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 1887340,
+            "percent": 0.349837,
+            "national_votes": 1857603,
+            "abroad_votes": 29737
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 2986741,
+            "percent": 0.553621,
+            "national_votes": 2972163,
+            "abroad_votes": 14578
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 9845,
+            "percent": 0.001824,
+            "national_votes": 9671,
+            "abroad_votes": 174
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 99584,
+            "percent": 0.018458000000000002,
+            "national_votes": 99227,
+            "abroad_votes": 357
+        }
+    }
+}

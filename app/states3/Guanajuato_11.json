@@ -1,0 +1,39 @@
+{
+    "Guanajuato": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 277360,
+            "percent": 0.106216,
+            "national_votes": 277160,
+            "abroad_votes": 200
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 1056747,
+            "percent": 0.404688,
+            "national_votes": 1053335,
+            "abroad_votes": 3412
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 1224110,
+            "percent": 0.46878100000000006,
+            "national_votes": 1218595,
+            "abroad_votes": 5515
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 4472,
+            "percent": 0.001712,
+            "national_votes": 4438,
+            "abroad_votes": 34
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 56387,
+            "percent": 0.021593,
+            "national_votes": 56334,
+            "abroad_votes": 53
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Puebla": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 322346,
+            "percent": 0.10157,
+            "national_votes": 322147,
+            "abroad_votes": 199
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 696244,
+            "percent": 0.21938400000000002,
+            "national_votes": 693004,
+            "abroad_votes": 3240
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 2067541,
+            "percent": 0.6514759999999999,
+            "national_votes": 2061094,
+            "abroad_votes": 6447
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 4149,
+            "percent": 0.001307,
+            "national_votes": 4116,
+            "abroad_votes": 33
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 91739,
+            "percent": 0.028906,
+            "national_votes": 91686,
+            "abroad_votes": 53
+        }
+    }
+}

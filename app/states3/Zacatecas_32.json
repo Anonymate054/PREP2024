@@ -1,0 +1,39 @@
+{
+    "Zacatecas": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 124211,
+            "percent": 0.169323,
+            "national_votes": 124127,
+            "abroad_votes": 84
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 221704,
+            "percent": 0.302226,
+            "national_votes": 221029,
+            "abroad_votes": 675
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 367584,
+            "percent": 0.501089,
+            "national_votes": 365541,
+            "abroad_votes": 2043
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 1405,
+            "percent": 0.001915,
+            "national_votes": 1382,
+            "abroad_votes": 23
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 20019,
+            "percent": 0.027288999999999997,
+            "national_votes": 19998,
+            "abroad_votes": 21
+        }
+    }
+}

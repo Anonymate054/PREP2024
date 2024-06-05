@@ -1,0 +1,39 @@
+{
+    "San Luis Potosí": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 138433,
+            "percent": 0.107906,
+            "national_votes": 138336,
+            "abroad_votes": 97
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 330360,
+            "percent": 0.257511,
+            "national_votes": 328845,
+            "abroad_votes": 1515
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 773298,
+            "percent": 0.6027750000000001,
+            "national_votes": 771339,
+            "abroad_votes": 1959
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 2012,
+            "percent": 0.001568,
+            "national_votes": 2000,
+            "abroad_votes": 12
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 41219,
+            "percent": 0.032129,
+            "national_votes": 41182,
+            "abroad_votes": 37
+        }
+    }
+}

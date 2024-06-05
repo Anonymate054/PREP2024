@@ -1,0 +1,39 @@
+{
+    "Oaxaca": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 119134,
+            "percent": 0.066363,
+            "national_votes": 119078,
+            "abroad_votes": 56
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 261516,
+            "percent": 0.145677,
+            "national_votes": 260965,
+            "abroad_votes": 551
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 1370423,
+            "percent": 0.763395,
+            "national_votes": 1365419,
+            "abroad_votes": 5004
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 1871,
+            "percent": 0.001042,
+            "national_votes": 1854,
+            "abroad_votes": 17
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 46853,
+            "percent": 0.026099,
+            "national_votes": 46837,
+            "abroad_votes": 16
+        }
+    }
+}

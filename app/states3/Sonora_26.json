@@ -1,0 +1,39 @@
+{
+    "Sonora": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 98260,
+            "percent": 0.092792,
+            "national_votes": 98184,
+            "abroad_votes": 76
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 268965,
+            "percent": 0.253999,
+            "national_votes": 267812,
+            "abroad_votes": 1153
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 667316,
+            "percent": 0.630186,
+            "national_votes": 666207,
+            "abroad_votes": 1109
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 1524,
+            "percent": 0.001439,
+            "national_votes": 1516,
+            "abroad_votes": 8
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 22854,
+            "percent": 0.021582,
+            "national_votes": 22842,
+            "abroad_votes": 12
+        }
+    }
+}

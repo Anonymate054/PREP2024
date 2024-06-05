@@ -1,0 +1,39 @@
+{
+    "Chiapas": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 160348,
+            "percent": 0.075736,
+            "national_votes": 160298,
+            "abroad_votes": 50
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 353198,
+            "percent": 0.166824,
+            "national_votes": 352755,
+            "abroad_votes": 443
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 1508000,
+            "percent": 0.712269,
+            "national_votes": 1506931,
+            "abroad_votes": 1069
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 2888,
+            "percent": 0.001364,
+            "national_votes": 2887,
+            "abroad_votes": 1
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 92743,
+            "percent": 0.043805,
+            "national_votes": 92731,
+            "abroad_votes": 12
+        }
+    }
+}

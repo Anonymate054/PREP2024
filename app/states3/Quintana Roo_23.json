@@ -1,0 +1,39 @@
+{
+    "Quintana Roo": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 57350,
+            "percent": 0.07773100000000001,
+            "national_votes": 57299,
+            "abroad_votes": 51
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 129121,
+            "percent": 0.17500800000000002,
+            "national_votes": 128073,
+            "abroad_votes": 1048
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 533958,
+            "percent": 0.723717,
+            "national_votes": 533396,
+            "abroad_votes": 562
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 1184,
+            "percent": 0.001604,
+            "national_votes": 1180,
+            "abroad_votes": 4
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 16186,
+            "percent": 0.021938,
+            "national_votes": 16173,
+            "abroad_votes": 13
+        }
+    }
+}

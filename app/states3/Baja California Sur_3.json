@@ -1,0 +1,39 @@
+{
+    "Baja California Sur": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 26476,
+            "percent": 0.089288,
+            "national_votes": 26470,
+            "abroad_votes": 6
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 88986,
+            "percent": 0.30010000000000003,
+            "national_votes": 88787,
+            "abroad_votes": 199
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 174176,
+            "percent": 0.587398,
+            "national_votes": 174012,
+            "abroad_votes": 164
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 463,
+            "percent": 0.0015609999999999999,
+            "national_votes": 459,
+            "abroad_votes": 4
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 6420,
+            "percent": 0.021650999999999997,
+            "national_votes": 6415,
+            "abroad_votes": 5
+        }
+    }
+}

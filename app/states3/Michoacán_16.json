@@ -1,0 +1,39 @@
+{
+    "Michoacán": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 230336,
+            "percent": 0.122063,
+            "national_votes": 230157,
+            "abroad_votes": 179
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 560620,
+            "percent": 0.297093,
+            "national_votes": 558615,
+            "abroad_votes": 2005
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 1036243,
+            "percent": 0.549144,
+            "national_votes": 1029239,
+            "abroad_votes": 7004
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 3916,
+            "percent": 0.002075,
+            "national_votes": 3869,
+            "abroad_votes": 47
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 63653,
+            "percent": 0.033732000000000005,
+            "national_votes": 63600,
+            "abroad_votes": 53
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Campeche": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 82509,
+            "percent": 0.210729,
+            "national_votes": 82496,
+            "abroad_votes": 13
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 62003,
+            "percent": 0.158356,
+            "national_votes": 61844,
+            "abroad_votes": 159
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 238025,
+            "percent": 0.60792,
+            "national_votes": 237851,
+            "abroad_votes": 174
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 446,
+            "percent": 0.001139,
+            "national_votes": 446,
+            "abroad_votes": 0
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 8557,
+            "percent": 0.021854,
+            "national_votes": 8555,
+            "abroad_votes": 2
+        }
+    }
+}

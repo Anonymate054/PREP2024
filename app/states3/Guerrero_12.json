@@ -1,0 +1,39 @@
+{
+    "Guerrero": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 95513,
+            "percent": 0.065622,
+            "national_votes": 95459,
+            "abroad_votes": 54
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 276794,
+            "percent": 0.19017099999999998,
+            "national_votes": 276169,
+            "abroad_votes": 625
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 1040631,
+            "percent": 0.714965,
+            "national_votes": 1035696,
+            "abroad_votes": 4935
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 1577,
+            "percent": 0.001083,
+            "national_votes": 1560,
+            "abroad_votes": 17
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 45592,
+            "percent": 0.031323,
+            "national_votes": 45579,
+            "abroad_votes": 13
+        }
+    }
+}

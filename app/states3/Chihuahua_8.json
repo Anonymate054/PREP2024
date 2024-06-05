@@ -1,0 +1,39 @@
+{
+    "Chihuahua": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 134575,
+            "percent": 0.09614800000000001,
+            "national_votes": 134432,
+            "abroad_votes": 143
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 495060,
+            "percent": 0.35370199999999996,
+            "national_votes": 492419,
+            "abroad_votes": 2641
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 736541,
+            "percent": 0.526231,
+            "national_votes": 734120,
+            "abroad_votes": 2421
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 2065,
+            "percent": 0.001475,
+            "national_votes": 2041,
+            "abroad_votes": 24
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 35015,
+            "percent": 0.025015999999999997,
+            "national_votes": 34984,
+            "abroad_votes": 31
+        }
+    }
+}

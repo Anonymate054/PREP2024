@@ -1,0 +1,39 @@
+{
+    "Tabasco": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 61062,
+            "percent": 0.06093899999999999,
+            "national_votes": 61031,
+            "abroad_votes": 31
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 113526,
+            "percent": 0.113299,
+            "national_votes": 113232,
+            "abroad_votes": 294
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 802827,
+            "percent": 0.8012220000000001,
+            "national_votes": 802219,
+            "abroad_votes": 608
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 1128,
+            "percent": 0.0011250000000000001,
+            "national_votes": 1126,
+            "abroad_votes": 2
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 23460,
+            "percent": 0.023413,
+            "national_votes": 23455,
+            "abroad_votes": 5
+        }
+    }
+}

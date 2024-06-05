@@ -1,0 +1,39 @@
+{
+    "Aguascalientes": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 56998,
+            "percent": 0.089398,
+            "national_votes": 56934,
+            "abroad_votes": 64
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 294218,
+            "percent": 0.461466,
+            "national_votes": 293070,
+            "abroad_votes": 1148
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 270252,
+            "percent": 0.423876,
+            "national_votes": 269391,
+            "abroad_votes": 861
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 1959,
+            "percent": 0.0030719999999999996,
+            "national_votes": 1953,
+            "abroad_votes": 6
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 14145,
+            "percent": 0.022185,
+            "national_votes": 14128,
+            "abroad_votes": 17
+        }
+    }
+}

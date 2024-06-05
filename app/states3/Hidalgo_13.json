@@ -1,0 +1,39 @@
+{
+    "Hidalgo": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 155820,
+            "percent": 0.10460599999999999,
+            "national_votes": 155757,
+            "abroad_votes": 63
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 297566,
+            "percent": 0.19976400000000002,
+            "national_votes": 296832,
+            "abroad_votes": 734
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 1000990,
+            "percent": 0.671994,
+            "national_votes": 998331,
+            "abroad_votes": 2659
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 1800,
+            "percent": 0.001208,
+            "national_votes": 1788,
+            "abroad_votes": 12
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 35408,
+            "percent": 0.02377,
+            "national_votes": 35395,
+            "abroad_votes": 13
+        }
+    }
+}

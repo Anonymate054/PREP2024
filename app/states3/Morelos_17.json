@@ -1,0 +1,39 @@
+{
+    "Morelos": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 117500,
+            "percent": 0.128928,
+            "national_votes": 117418,
+            "abroad_votes": 82
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 196657,
+            "percent": 0.21578499999999998,
+            "national_votes": 195416,
+            "abroad_votes": 1241
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 578965,
+            "percent": 0.635279,
+            "national_votes": 577037,
+            "abroad_votes": 1928
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 1060,
+            "percent": 0.001163,
+            "national_votes": 1049,
+            "abroad_votes": 11
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 18570,
+            "percent": 0.020376,
+            "national_votes": 18550,
+            "abroad_votes": 20
+        }
+    }
+}

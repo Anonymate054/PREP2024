@@ -1,0 +1,39 @@
+{
+    "Tlaxcala": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 98760,
+            "percent": 0.14026,
+            "national_votes": 98726,
+            "abroad_votes": 34
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 105282,
+            "percent": 0.149523,
+            "national_votes": 105095,
+            "abroad_votes": 187
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 484255,
+            "percent": 0.6877460000000001,
+            "national_votes": 483516,
+            "abroad_votes": 739
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 954,
+            "percent": 0.001354,
+            "national_votes": 951,
+            "abroad_votes": 3
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 14867,
+            "percent": 0.021114,
+            "national_votes": 14862,
+            "abroad_votes": 5
+        }
+    }
+}

@@ -1,0 +1,39 @@
+{
+    "Colima": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 45454,
+            "percent": 0.134213,
+            "national_votes": 45427,
+            "abroad_votes": 27
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 102695,
+            "percent": 0.30323100000000003,
+            "national_votes": 102299,
+            "abroad_votes": 396
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 182722,
+            "percent": 0.539529,
+            "national_votes": 182089,
+            "abroad_votes": 633
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 685,
+            "percent": 0.002022,
+            "national_votes": 682,
+            "abroad_votes": 3
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 7113,
+            "percent": 0.021002,
+            "national_votes": 7098,
+            "abroad_votes": 15
+        }
+    }
+}

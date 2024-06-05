@@ -1,0 +1,39 @@
+{
+    "Nuevo León": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 431178,
+            "percent": 0.181643,
+            "national_votes": 430840,
+            "abroad_votes": 338
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 841844,
+            "percent": 0.35464599999999996,
+            "national_votes": 835573,
+            "abroad_votes": 6271
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 1056501,
+            "percent": 0.445075,
+            "national_votes": 1054710,
+            "abroad_votes": 1791
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 3715,
+            "percent": 0.001565,
+            "national_votes": 3689,
+            "abroad_votes": 26
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 46578,
+            "percent": 0.019622,
+            "national_votes": 46522,
+            "abroad_votes": 56
+        }
+    }
+}

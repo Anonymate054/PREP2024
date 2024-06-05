@@ -1,0 +1,39 @@
+{
+    "Yucatán": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 80867,
+            "percent": 0.06962,
+            "national_votes": 80808,
+            "abroad_votes": 59
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 363452,
+            "percent": 0.312906,
+            "national_votes": 362367,
+            "abroad_votes": 1085
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 693678,
+            "percent": 0.597206,
+            "national_votes": 693011,
+            "abroad_votes": 667
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 1111,
+            "percent": 0.000956,
+            "national_votes": 1108,
+            "abroad_votes": 3
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 22429,
+            "percent": 0.019309,
+            "national_votes": 22405,
+            "abroad_votes": 24
+        }
+    }
+}

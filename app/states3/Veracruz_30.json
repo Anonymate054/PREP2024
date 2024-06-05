@@ -1,0 +1,39 @@
+{
+    "Veracruz": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 280767,
+            "percent": 0.08098100000000001,
+            "national_votes": 280614,
+            "abroad_votes": 153
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 808513,
+            "percent": 0.23319700000000002,
+            "national_votes": 806385,
+            "abroad_votes": 2128
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 2294442,
+            "percent": 0.6617799999999999,
+            "national_votes": 2290229,
+            "abroad_votes": 4213
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 4384,
+            "percent": 0.0012640000000000001,
+            "national_votes": 4359,
+            "abroad_votes": 25
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 83384,
+            "percent": 0.02405,
+            "national_votes": 83345,
+            "abroad_votes": 39
+        }
+    }
+}

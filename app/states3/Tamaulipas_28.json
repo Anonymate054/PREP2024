@@ -1,0 +1,39 @@
+{
+    "Tamaulipas": {
+        "1": {
+            "name": "Jorge Álvarez Máynez",
+            "total_votes": 138101,
+            "percent": 0.094459,
+            "national_votes": 138002,
+            "abroad_votes": 99
+        },
+        "2": {
+            "name": "Bertha Xóchitl Gálvez Ruíz",
+            "total_votes": 387878,
+            "percent": 0.265303,
+            "national_votes": 386234,
+            "abroad_votes": 1644
+        },
+        "3": {
+            "name": "Claudia Sheinbaum Pardo",
+            "total_votes": 905685,
+            "percent": 0.6194769999999999,
+            "national_votes": 903934,
+            "abroad_votes": 1751
+        },
+        "4": {
+            "name": "Candidaturas no registradas",
+            "total_votes": 1794,
+            "percent": 0.001227,
+            "national_votes": 1786,
+            "abroad_votes": 8
+        },
+        "5": {
+            "name": "Votos nulos",
+            "total_votes": 30965,
+            "percent": 0.021179,
+            "national_votes": 30947,
+            "abroad_votes": 18
+        }
+    }
+}
